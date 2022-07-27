@@ -18,7 +18,7 @@ $ git clone https://github.com/Codingvengers/scheduling.git
 ```bash
 $ git add .
 $ git commit -m "[your description]"
-$ git push origin master
+$ git push origin main
 ```
 
 ### 4. Register pull request for your commit
@@ -29,7 +29,7 @@ Pull Request 를 등록했는데, conflict 가 있어서 auto merge 가 안된�
 
 ```bash
 # in Interview_Question_for_Beginner
-$ git remote add --track master upstream https://github.com/Codingvengers/scheduling.git
+$ git remote add --track main upstream https://github.com/Codingvengers/scheduling.git
 $ git fetch upstream
 $ git rebase upstream/main
 # (resolve conflict in your editor)
