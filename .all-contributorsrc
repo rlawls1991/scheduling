@@ -1,27 +1,17 @@
 {
-  "projectName": "all-contributors",
-  "projectOwner": "all-contributors",
-  "files": [
-    "README.md"
-  ],
+  "files": ["README.md"],
   "imageSize": 100,
-  "contributors": [
-    {
-      "login": "vvshinevv",
-      "name": "Choi Hong Hee",
-      "avatar_url": "https://avatars.githubusercontent.com/u/1500684?v=3",
-      "profile": "https://kentcdodds.com",
-      "contributions": [
-        "question",
-        "doc",
-        "review",
-        "talk"
-      ]
-    }
-  ],
-  "repoType": "github",
   "contributorsPerLine": 7,
-  "repoHost": "https://github.com",
-  "commitConvention": "angular",
-  "skipCi": true
+  "contributorsSortAlphabetically": false,
+  "badgeTemplate": "[![All Contributors](https://img.shields.io/badge/all_contributors-<%= contributors.length %>-orange.svg?style=flat-square)](#contributors)",
+  "contributorTemplate": "<a href=\"<%= contributor.profile %>\"><img src=\"<%= contributor.avatar_url %>\" width=\"<%= options.imageSize %>px;\" alt=\"\"/><br /><sub><b><%= contributor.name %></b></sub></a>",
+  "types": {
+    "custom": {
+      "symbol": "🔭",
+      "description": "A custom contribution type.",
+      "link": "[<%= symbol %>](<%= url %> \"<%= description %>\"),"
+    }
+  },
+  "skipCi": "true",
+  "contributors": []
 }
