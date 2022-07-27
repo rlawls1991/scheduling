@@ -21,10 +21,18 @@ $ git commit -m "[your description]"
 $ git push origin main
 ```
 
-### 4. Register pull request for your commit
+#### 4. Register pull request for your commit
 `Pull Request`를 등록해주세요.
 
-### Optional. Resolve Conflict
+### Optional 1. local repository 최신화 하기
+```bash
+$ git remote add --track main upstream https://github.com/Codingvengers/scheduling.git (이미 리모트 등록되어 있으면 생략 가능)
+$ git fetch upstream
+$ git rebase upstream/main
+$ git push
+```
+
+### Optional 2. Resolve Conflict
 Pull Request 를 등록했는데, conflict 가 있어서 auto merge 가 안된다고 하는 경우 해당 conflict 를 해결해주세요.
 
 ```bash
