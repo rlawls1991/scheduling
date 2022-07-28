@@ -62,14 +62,14 @@ $ git commit -m "[your description]"
 $ git push origin master
 ```
 
-### 6. Register pull request for your commit
+#### 6. Register pull request for your commit
 `Pull Request`를 등록하고 `merge` 해주세요.
 
-### 7. `Comment`에 아래 내용을 참고해서 댓글을 달아주세요.
+#### 7. `Comment`에 아래 내용을 참고해서 댓글을 달아주세요.
 `@all-contributors please add @<your-git-username> for <Emoji>`
 
-샘플
+샘플 <br/>
 `@all-contributors please add @vvshinevv for infrastructure, tests and code`
 
-이모지는 아래 링크를 참고해주세요.
+이모지는 아래 링크를 참고해주세요. <br/>
 https://allcontributors.org/docs/ko/emoji-key
