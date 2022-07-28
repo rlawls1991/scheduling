@@ -17,7 +17,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- markdownlint-disable -->
 <table>
   <tr>
-    <td align="center"><a href="https://vvshinevv.tistory.com"><img src="https://avatars.githubusercontent.com/u/17119607?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Choi hong hee</b></sub></a><br /><a href="#design-vvshinevv" title="Design">🎨</a></td>
+    <td align="center"><a href="https://github.com/vvshinevv"><img src="https://avatars.githubusercontent.com/u/17119607?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Choi hong hee</b></sub></a><br /><a href="#design-vvshinevv" title="Design">🎨</a></td>
   </tr>
 </table>
 
