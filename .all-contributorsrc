@@ -1,14 +1,24 @@
 {
+  "projectName": "scheduling",
+  "projectOwner": "Codingvengers",
+  "repoType": "github",
+  "repoHost": "https://github.com",
   "files": [
     "README.md"
   ],
   "imageSize": 100,
-  "commit": false,
-  "contributors": [],
-  "contributorsPerLine": 7,
-  "projectName": "covidtrackerapiwrapper",
-  "projectOwner": "Abdirahiim",
-  "repoType": "github",
-  "repoHost": "https://github.com",
-  "skipCi": true
+  "commit": true,
+  "commitConvention": "none",
+  "contributors": [
+    {
+      "login": "vvshinevv",
+      "name": "Choi hong hee",
+      "avatar_url": "https://avatars.githubusercontent.com/u/17119607?v=4",
+      "profile": "https://vvshinevv.tistory.com/",
+      "contributions": [
+        "doc"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7
 }
