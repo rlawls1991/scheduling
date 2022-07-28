@@ -15,12 +15,6 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
-<table>
-  <tr>
-    <td align="center"><a href="https://vvshinevv.tistory.com/"><img src="https://avatars.githubusercontent.com/u/17119607?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Choi hong hee</b></sub></a><br /><a href="https://github.com/Codingvengers/scheduling/commits?author=vvshinevv" title="Documentation">📖</a></td>
-  </tr>
-</table>
-
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
 
