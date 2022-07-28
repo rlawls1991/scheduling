@@ -9,6 +9,17 @@
   "imageSize": 100,
   "commit": true,
   "commitConvention": "none",
-  "contributors": [],
-  "contributorsPerLine": 7
+  "contributors": [
+    {
+      "login": "vvshinevv",
+      "name": "Choi hong hee",
+      "avatar_url": "https://avatars.githubusercontent.com/u/17119607?v=4",
+      "profile": "https://vvshinevv.tistory.com",
+      "contributions": [
+        "design"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "skipCi": true
 }
