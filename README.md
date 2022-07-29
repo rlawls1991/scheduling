@@ -72,4 +72,4 @@ $ git push origin main
 `@all-contributors please add @vvshinevv for infrastructure, tests and code`
 
 이모지는 아래 링크를 참고해주세요. <br/>
-https://allcontributors.org/docs/ko/emoji-key
+https://allcontributors.org/docs/en/emoji-key
