@@ -21,6 +21,15 @@
         "test",
         "code"
       ]
+    },
+    {
+      "login": "pplenty",
+      "name": "pplenty",
+      "avatar_url": "https://avatars.githubusercontent.com/u/12326850?v=4",
+      "profile": "https://pplenty.tistory.com/",
+      "contributions": [
+        "infra"
+      ]
     }
   ],
   "contributorsPerLine": 7,
