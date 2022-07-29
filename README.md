@@ -18,7 +18,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <table>
   <tr>
     <td align="center"><a href="https://github.com/vvshinevv"><img src="https://avatars.githubusercontent.com/u/17119607?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Choi hong hee</b></sub></a><br /><a href="#design-vvshinevv" title="Design">🎨</a> <a href="#content-vvshinevv" title="Content">🖋</a> <a href="https://github.com/Codingvengers/scheduling/commits?author=vvshinevv" title="Tests">⚠️</a> <a href="https://github.com/Codingvengers/scheduling/commits?author=vvshinevv" title="Code">💻</a></td>
-    <td align="center"><a href="https://pplenty.tistory.com/"><img src="https://avatars.githubusercontent.com/u/12326850?v=4?s=100" width="100px;" alt=""/><br /><sub><b>pplenty</b></sub></a><br /><a href="#infra-pplenty" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a></td>
+    <td align="center"><a href="https://pplenty.tistory.com/"><img src="https://avatars.githubusercontent.com/u/12326850?v=4?s=100" width="100px;" alt=""/><br /><sub><b>pplenty</b></sub></a><br /><a href="#infra-pplenty" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="https://github.com/Codingvengers/scheduling/commits?author=pplenty" title="Tests">⚠️</a> <a href="https://github.com/Codingvengers/scheduling/commits?author=pplenty" title="Code">💻</a></td>
   </tr>
 </table>
 
