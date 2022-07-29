@@ -59,7 +59,7 @@ $ git push -f origin main
 ```bash
 $ git add .
 $ git commit -m "[your description]"
-$ git push origin master
+$ git push origin main
 ```
 
 #### 6. Register pull request for your commit
