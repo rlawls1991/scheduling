@@ -40,7 +40,8 @@
       "profile": "https://sungminhong.github.io/",
       "contributions": [
         "infra",
-        "code"
+        "code",
+        "test"
       ]
     }
   ],
