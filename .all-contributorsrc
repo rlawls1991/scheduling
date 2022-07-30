@@ -43,6 +43,17 @@
         "code",
         "test"
       ]
+    },
+    {
+      "login": "kyungseop",
+      "name": "kyungseop Ahn",
+      "avatar_url": "https://avatars.githubusercontent.com/u/2485456?v=4",
+      "profile": "http://kyungseop.github.io",
+      "contributions": [
+        "infra",
+        "test",
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
