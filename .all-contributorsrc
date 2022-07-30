@@ -34,6 +34,17 @@
       ]
     },
     {
+      "login": "SungMinHong",
+      "name": "SungMin",
+      "avatar_url": "https://avatars.githubusercontent.com/u/18229419?v=4",
+      "profile": "https://sungminhong.github.io/",
+      "contributions": [
+        "infra",
+        "code",
+        "test"
+      ]
+    },
+    {
       "login": "kyungseop",
       "name": "kyungseop Ahn",
       "avatar_url": "https://avatars.githubusercontent.com/u/2485456?v=4",
