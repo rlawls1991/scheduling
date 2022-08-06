@@ -54,6 +54,17 @@
         "test",
         "code"
       ]
+    },
+    {
+      "login": "flzl2008",
+      "name": "Hyeong Geun Kim",
+      "avatar_url": "https://avatars.githubusercontent.com/u/13360519?v=4",
+      "profile": "https://github.com/flzl2008",
+      "contributions": [
+        "content",
+        "ideas",
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
