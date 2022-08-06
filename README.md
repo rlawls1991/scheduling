@@ -7,7 +7,7 @@
 # [모각코] 촛불 하나, 둘, 셋 의지박약 사라져가고
 ## Contributors ✨
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-4-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-5-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
@@ -21,6 +21,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://pplenty.tistory.com/"><img src="https://avatars.githubusercontent.com/u/12326850?v=4?s=100" width="100px;" alt=""/><br /><sub><b>pplenty</b></sub></a><br /><a href="#infra-pplenty" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="https://github.com/Codingvengers/scheduling/commits?author=pplenty" title="Tests">⚠️</a> <a href="https://github.com/Codingvengers/scheduling/commits?author=pplenty" title="Code">💻</a></td>
     <td align="center"><a href="https://sungminhong.github.io/"><img src="https://avatars.githubusercontent.com/u/18229419?v=4?s=100" width="100px;" alt=""/><br /><sub><b>SungMin</b></sub></a><br /><a href="#infra-SungMinHong" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="https://github.com/Codingvengers/scheduling/commits?author=SungMinHong" title="Code">💻</a> <a href="https://github.com/Codingvengers/scheduling/commits?author=SungMinHong" title="Tests">⚠️</a></td>
     <td align="center"><a href="http://kyungseop.github.io"><img src="https://avatars.githubusercontent.com/u/2485456?v=4?s=100" width="100px;" alt=""/><br /><sub><b>kyungseop Ahn</b></sub></a><br /><a href="#infra-kyungseop" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="https://github.com/Codingvengers/scheduling/commits?author=kyungseop" title="Tests">⚠️</a> <a href="https://github.com/Codingvengers/scheduling/commits?author=kyungseop" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/flzl2008"><img src="https://avatars.githubusercontent.com/u/13360519?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Hyeong Geun Kim</b></sub></a><br /><a href="#content-flzl2008" title="Content">🖋</a> <a href="#ideas-flzl2008" title="Ideas, Planning, & Feedback">🤔</a> <a href="https://github.com/Codingvengers/scheduling/commits?author=flzl2008" title="Code">💻</a></td>
   </tr>
 </table>
 
